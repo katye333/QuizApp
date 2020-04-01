@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quiz_name">Cat Trivia!</string>
+    <string name="name">Name: </string>
+    <string name="question_1">(1) What is the proper name for a group of kittens?</string>
+    <string name="question_1_answer_1">Kine</string>
+    <string name="question_1_answer_2">Kindle</string>
+    <string name="question_1_answer_3">Kettle</string>
+    <string name="question_1_answer_4">Clowder</string>
+
+    <string name="question_2">(2) A group of adult cats can be called...?</string>
+    <string name="question_2_answer_1">Clowder</string>
+    <string name="question_2_answer_2">Clutter</string>
+    <string name="question_2_answer_3">Glaring</string>
+    <string name="question_2_answer_4">Pounce</string>
+
+    <string name="question_3">(3) A cat named _______ is the mayor of Talkeetna, Alaska</string>
+    <string name="question_3_hint">Name of mayor</string>
+
+    <string name="question_4">(4) True or False: Cats can drink ocean water to survive.</string>
+    <string name="question_4_answer_true">True</string>
+    <string name="question_4_answer_false">False</string>
+
+    <string name="submitQuiz">Submit</string>
+</resources>
